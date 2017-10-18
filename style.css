@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background-image: url(img/background.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.center {
+  position: absolute;
+}
+
+.scal {
+  width: 100%;
+}
+
+#ring1 {
+  width: 30%;
+  top: 19vh;
+  left: 33vw;
+}
+
+#ring2 {
+  width: 27%;
+  top: 21.7vh;
+  left: 34.3vw;
+}
+
+#ring3 {
+  width: 25%;
+  top: 25vh;
+  left: 36vw;
+}
+
+#ring4 {
+  width: 19%;
+  top: 32vh;
+  left: 38.5vw;
+}
